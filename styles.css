@@ -1,0 +1,453 @@
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(/images/brick-wall-painted-white.jpg);
+  }
+/* Header Styles */
+.container {
+    display: flex;
+    text-align: center;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 500px;
+    height: 250px;
+    background-position: bottom;
+    
+  }
+  #about
+   {
+   position: absolute;
+   top: 55%;
+   left: 53%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+   font-family: "Gill Sans";
+   color: #000000;
+   
+   
+  }
+  #img {
+    width: 100%;
+    height: px;
+    background-color: #75cac144;
+    background-size: cover
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    object-fit: cover;
+    opacity: 50%;
+
+   
+  }
+  #pageTopic {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    top:10%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    
+  }
+.sectionHead1{
+  
+  transform: rotate(-90deg);
+  margin-left: 7%;
+  transform-origin: left top 9;
+  font-family: "Gill Sans";
+  color: #75cac2;
+
+
+}
+
+  .section1ptimarycolours {
+    display: flex;
+    align-items: center;
+    
+  }
+  .section2textcolours {
+   display: flex;
+   align-items: center;
+   margin-left: 2%;
+  }
+  .sectionalertcolours {
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+   }
+   .imagery
+  .sunflower {
+    width: 3%;
+    margin-left: 4%;
+    
+    transform: translate(-34%, -90%)
+  }
+  /* Primary Color */
+  .colorContainer {
+    display: flex;
+    justify-content: right;
+    display: inline-block;
+    margin: 15px;
+  }
+  .swatch2 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #75cac2;
+     border-radius: 50%;
+     
+  }
+  .swatch1 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #414143;
+     border-radius: 50%;
+     
+  }
+  .swatch3 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #e6622b;
+     border-radius: 50%;
+     
+  }
+  .swatch4 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #ffe654;
+     border-radius: 50%;
+     
+  }
+  .swatch5 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #fab14a;
+     border-radius: 50%;
+     
+  }
+  .sectionHead2{
+  
+    transform: rotate(-90deg);
+    margin-left: 7%;
+    transform-origin: left top 9;
+   
+    font-family: "Gill Sans";
+    color: #000000;
+  
+  }
+  .flower {
+    width: 10%;
+    margin-left: -40%;
+    
+    transform: translate(-34%, -90%)
+  }
+  .swatch6 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #75cac2;
+     border-radius: 50%;
+     
+  }
+  .swatch7 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #000000;
+     border-radius: 50%;
+     
+  }
+ 
+  .swatch8 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #F84848;
+     border-radius: 50%;
+     
+  }
+  .sectionHead3{
+  
+    transform: rotate(-90deg);
+    margin-left: 7%;
+    transform-origin: left top 9;
+    
+    font-family: "Gill Sans";
+    color: #75cac2;
+  
+  }
+  .blooming {
+    width: 10%;
+    margin-left: 4%;
+    
+    transform: translate(-34%, -90%)
+  }
+  .swatch9 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #FC7705;
+     border-radius: 50%;
+     
+  }
+  .swatch10 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #54cec2;
+     border-radius: 50%;
+     
+  }
+  .swatch11 {
+    display: flex;
+     height: 170px;
+     width: 170px;
+     border: 1px solid transparent;
+     background-color: #6be7da;
+     border-radius: 50%;
+     
+  }
+  .sectionHead5{
+  
+    transform: rotate(-90deg);
+    margin-left: 80%;
+    transform-origin: left top 9;
+   
+    font-family: "Gill Sans";
+    color: #000000;
+  
+  }
+  .sectionHead6{
+  
+    transform: rotate(-90deg);
+    margin-left: 80%;
+    transform-origin: left top 9;
+   
+    font-family: "Gill Sans";
+    color: #000000;
+    font-size: small;
+  }
+  .typography1 {
+    position: absolute;
+    margin-trim: 90px;
+    left: 53%;
+    transform: translate(-60%, -80%);
+    
+  }
+ .H1 {
+  font-family: "Gill Sans";
+  font-size: 50px;
+  font-weight: normal;
+  
+ }
+ .H2 {
+  font-family: url(/font/Poppins-Medium.ttf);
+  font-size: 42px;
+  font-weight: normal;
+ }
+
+ .H3 {
+  font-size: 34px;
+  font-weight: bold;
+ }
+ .H4 {
+  font-weight: bold;
+  font-size: 26px;
+ }
+
+ .sectionHead7{
+  
+  transform: rotate(-90deg);
+  margin-left: 80%;
+  transform-origin: left top 40;
+  
+  font-family: "Gill Sans";
+  color: #75cac2;
+  
+}
+
+.sectionHead8{
+  
+  transform: rotate(-90deg);
+  margin-left: 80%;
+  transform-origin: left top 9;
+ margin-top: 6%;
+  font-family: "Gill Sans";
+  color: #75cac2;
+  font-size: small;
+  
+}
+.sectionHead9{
+  
+  transform: rotate(-90deg);
+  margin-left: 80%;
+  transform-origin: left top 90;
+ 
+  font-family: "Gill Sans";
+  color: #000000;
+  
+}
+  .swatch {
+    display: flex;
+     height: 200px;
+     width: 170px;
+     border: 1px solid black;
+     
+  }
+  .hexCode {
+     display: flex;
+     justify-content: right;
+     padding: 15px;
+     text-align: center;
+     border: 1px solid black;
+     border-top: none;
+     border-bottom-left-radius: 7px;
+     border-bottom-right-radius: 7px;
+  }
+  .darkBlue {
+    justify-content: right;
+    background-color: #333366;
+  }
+  .darkGrey {
+    display: flex;
+    justify-content: right;
+    background-color: #545454;
+  }
+  .lightGrey {
+    display: flex;
+    
+    background-color: #E3E3E3;
+  }
+  .white {
+    background-color: #FFFFFF;
+  }
+  .lightBlue {
+    background-color: #12A0F6;
+  }
+  .red {
+    background-color: #F84848;
+  }
+  .orange {
+    background-color: #FC7705;
+  }
+  .lightBlue {
+    background-color: #13A0F6;
+  }
+  .lightGreen {
+    background-color: #8ABE48;
+  }
+
+  .logo {
+    text-align: center;
+  }
+  .rainbow {
+    text-align: center;
+    margin-left: 53%;
+  }
+  /* Typography CSS */
+  .type_container {
+     display: inline-block;
+     display: flex;
+     justify-content: right;
+     margin: 20px;
+  }
+  .large {
+      font-size: 66px;
+      margin-bottom: 15px;
+      margin-bottom: 15px;
+      margin-top: 0;
+  }
+  .light {
+      font-weight: 100;
+  }
+  .regular {
+      font-weight: 500;
+  }
+  .bold {
+      font-weight: 700;
+  }
+  .typography h1 {
+      font-weight: 900;
+      font-size: 50px;
+  }
+  .typography h2 {
+      font-weight: 700;
+      font-size: 42px;
+  }
+  .typography h3 {
+      font-weight: 700;
+      font-size: 34px;
+  }
+  .typography h4 {
+      font-size: 26px;
+  }
+  
+  /* UI Elements */
+  .uiElements {
+    text-align: center;
+  }
+  .button {
+     display: inline-block;
+     padding: 15px;
+     margin: 15px;
+     width: 150px;
+     font-size: 14px;
+     text-align: center;
+     color: white;
+     
+  }
+  .primary {
+    background-color: #75cac2;
+  }
+  .success {
+    background-color: #e6622b;
+  }
+  .danger {
+    background-color: #fa8d5f;
+  }
+  .warning {
+    background-color: #6be7da;
+  }
+  .info {
+    background-color: #414143;
+  }
+  .primaryActive {
+    background-color: #58a49c;
+  }
+  .successActive {
+    background-color: #a74920;
+  }
+  .dangerActive {
+    background-color: #692d14;
+  }
+  .warningActive {
+    background-color: #479e96;
+  }
+  .infoActive {
+    background-color: #000000;
+  }
+  .sectionHead {
+    border-bottom: 8px solid #DDDDDD;
+  }
+  
+.logo1, .logo2, .logo2, .logo3, .logo4 {
+  width: 9%;
+}
