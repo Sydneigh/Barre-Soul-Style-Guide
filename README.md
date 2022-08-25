@@ -2,8 +2,9 @@
 UI Style Guide 
 github page https://sydneigh.github.io/Barre-Soul-Style-Guide/
 # Building Section.
-I started off by creating five sections with section tags. ○ A header section containing a single image ○ A color palette section ○ A typography guide section ○ A section containing reusable UI element ○ A logo section
-Inside the section1ptimarycolours section, I added the following tags h2, div tags. Next, the div tags were given the class of colorContainer. 1
+I started off by creating five sections with section tags. 
+○ A header section containing a single image ○ A color palette section ○ A typography guide section ○ A section containing reusable UI element ○ A logo section
+Inside the section1ptimarycolours section, I added the following tags h2, div tags. Next, the div tags were given the class of colorContainer.
 ![2](https://user-images.githubusercontent.com/96391154/186584266-66205412-d8d9-491b-b1b0-4c0563d28ee2.jpg)
 
 # CSS properties.
